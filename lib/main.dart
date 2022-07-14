@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
         elevation: 0,
       ),
       body: const Center(
-        child: Text('My Page!'),
+        child: Text('home!'),
       ),
       endDrawer: Drawer(
         width: 210,
